@@ -2,4 +2,4 @@
 Zadanie 
 ## Krótki opis Programu [WikiGit](https://pl.wikipedia.org/wiki/GitHub)
 
-![Logo](Star.png)
+![Logo](src/Star.png)
